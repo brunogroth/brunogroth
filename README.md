@@ -1,7 +1,7 @@
 # Welcome!
 Hi! I'm Bruno, and that's my Github profile. 😄 <br>
 I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
-👨‍💻 <a href="https://github.com/brunogroth">Professionaly</a>, I use **AWS CodeCommit** for version control. <br>
+👨‍💻 <a href="https://linkedin.com/in/bruno-groth">Professionaly</a>, I use **AWS CodeCommit** for version control. <br>
 👉 Therefore, here you will only see my **personal projects** and **study materials**. 
 <p> Check it out and enjoy! 😊 </p>
 
@@ -39,7 +39,7 @@ I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
 
 ## Feel free to get in touch
 - I'll appreciate your contact for any reason. <br><br>
-  <a href="https://www.linkedin.com/in/bruno-groth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/bruno-groth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunom.groth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/brunogroth"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
  
