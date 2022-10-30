@@ -1,6 +1,6 @@
 # Welcome!
-Hi! I'm Bruno, and that's my Github profile.  <br>
-I'm just another Dark Theme devotee and an tech enthusiastic. 🖤<br><br>
+Hi! I'm Bruno, and that's my Github profile. 😄 <br>
+I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
 👨‍💻 <a href="https://github.com/brunogroth">Professionaly</a>, I use **AWS CodeCommit** for version control. <br>
 👉 Therefore, here you will only see my **personal projects** and **study materials**. 
 <p> Check it out and enjoy! 😊 </p>
