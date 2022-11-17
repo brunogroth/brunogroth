@@ -3,7 +3,14 @@ Hi! I'm Bruno, and that's my Github profile. 😄 <br>
 I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
 👨‍💻 <a href="https://linkedin.com/in/bruno-groth">Professionaly</a>, I use **AWS CodeCommit** for version control. <br>
 👉 Therefore, here you will only see my **personal projects** and **study materials**. 
+
+🤩 You can check my beautiful Portfolio **[here](https://brunogroth.github.io/Portfolio-React-Website/)**.
 <p> Check it out and enjoy! 😊 </p>
+
+## Currently Learning:
+- [React](https://github.com/brunogroth/Portfolio-React-Website) & [React Native](https://github.com/brunogroth/bruNubank-RNative) 👈 **Click** and check two cool projects!
+- [C#](https://github.com/brunogroth/WebAPIPayrollCSharp) and [NodeJS](https://github.com/brunogroth/WaiterApp) for REST APIs 👈 Click and check two others!
+- Typescript 🚀
 
 ## My Stats:
 <div align="center">
