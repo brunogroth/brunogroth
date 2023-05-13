@@ -8,6 +8,7 @@ I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
 <p> Check it out and enjoy! 😊 </p>
 
 ## Currently Learning:
+- <a href="https://laravel-livewire.com/" target="_blank">Livewire</a> and <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a> with this challenging [Twitter clone](https://github.com/brunogroth/Twitter) complete project.
 - [React](https://github.com/brunogroth/Portfolio-React-Website) & [React Native](https://github.com/brunogroth/bruNubank-RNative) 👈 **Click** and check two cool projects!
 - [C#](https://github.com/brunogroth/WebAPIPayrollCSharp) and [NodeJS](https://github.com/brunogroth/WaiterApp) for REST APIs 👈 Click and check two others!
 - Typescript 🚀
