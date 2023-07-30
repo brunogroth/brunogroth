@@ -9,9 +9,7 @@ I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
 
 ## Currently Learning:
 - <a href="https://laravel-livewire.com/" target="_blank">Livewire</a> and <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a> with this challenging [Twitter clone](https://github.com/brunogroth/Twitter) complete project.
-- [React](https://github.com/brunogroth/Portfolio-React-Website) & [React Native](https://github.com/brunogroth/bruNubank-RNative) 👈 **Click** and check two cool projects!
-- [C#](https://github.com/brunogroth/WebAPIPayrollCSharp) and [NodeJS](https://github.com/brunogroth/WaiterApp) for REST APIs 👈 Click and check two others!
-- Typescript 🚀
+- Typescript & <a href="https://github.com/brunogroth/VueJS" target="_blank">VueJS 3</a> 🚀
 
 ## My Stats:
 <div align="center">
@@ -35,10 +33,11 @@ I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
   <img align="center" alt="Bruno-Git" height="29" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"> 
   <img align="center" alt="Bruno-MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>
 <div> 
-
-  
-  ![Snake animation](https://github.com/brunogroth/brunogroth/blob/output/github-contribution-grid-snake.svg)
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
   
 ## 🤝 Contributing
