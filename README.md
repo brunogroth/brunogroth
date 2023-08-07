@@ -10,7 +10,7 @@ I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
 ## Currently Learning:
 - <a href="https://laravel-livewire.com/" target="_blank">Livewire</a> and <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a> with this challenging [Twitter clone](https://github.com/brunogroth/Twitter) complete project.
 - Typescript & <a href="https://github.com/brunogroth/VueJS" target="_blank">VueJS 3</a>.
-- Check a nice game that I made in Vue clicking <a href="https://github.com/brunogroth/MonsterSlayerGame" target="_blank">here</a> 🚀
+- 🕹 Play a cool GAME that I made in Vue: <a href="https://brunogroth.github.io/MonsterSlayerGame/"  target="_blank">Play NOW! 🎮</a> (or <a href="https://github.com/brunogroth/MonsterSlayerGame" target="_blank">check source code</a>) 🚀
 
 ## My Stats:
 <div align="center">
