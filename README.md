@@ -1,7 +1,7 @@
 # Welcome!
 Hi! I'm Bruno, and that's my Github profile. 😄 <br>
 I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
-👨‍💻 <a href="https://linkedin.com/in/bruno-groth">Professionaly</a>, I use **AWS CodeCommit** for version control. <br>
+👨‍💻 <a href="https://linkedin.com/in/bruno-groth">Professionaly</a>, I use **Atlassian's Bitbucket** for version control. <br>
 👉 Therefore, here you will only see my **personal projects** and **study materials**. 
 
 🤩 You can check my beautiful Portfolio **[here](https://brunogroth.github.io/Portfolio-React-Website/)**.
@@ -9,7 +9,8 @@ I'm just another Dark Theme devotee and a tech enthusiast. 🖤<br><br>
 
 ## Currently Learning:
 - <a href="https://laravel-livewire.com/" target="_blank">Livewire</a> and <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a> with this challenging [Twitter clone](https://github.com/brunogroth/Twitter) complete project.
-- Typescript & <a href="https://github.com/brunogroth/VueJS" target="_blank">VueJS 3</a> 🚀
+- Typescript & <a href="https://github.com/brunogroth/VueJS" target="_blank">VueJS 3</a>.
+- Check a nice game that I made in Vue clicking <a href="https://github.com/brunogroth/MonsterSlayerGame" target="_blank">here</a> 🚀
 
 ## My Stats:
 <div align="center">
